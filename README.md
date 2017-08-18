@@ -1,3 +1,6 @@
+# egghead-inferno-functional-lifecycle
+Code for Egghead.io Lesson: Use Lifecycle Events with Functional Components with Inferno
+
 This project was bootstrapped with [Create Inferno App](https://github.com/infernojs/create-inferno-app).
 
 Below you will find some information on how to perform common tasks.<br>
